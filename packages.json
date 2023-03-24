@@ -13091,7 +13091,6 @@
       "plot",
       "graph",
       "chart",
-      "deleted"
     ],
     "description": "Plotting module in pure nim",
     "license": "CC0",
@@ -13193,8 +13192,7 @@
       "algebra",
       "parse",
       "evaluate",
-      "mathematics",
-      "deleted"
+      "mathematics"
     ],
     "description": "Algebraic expression parser and evaluator",
     "license": "CC0",
